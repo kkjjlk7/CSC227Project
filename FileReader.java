@@ -16,7 +16,7 @@ public class FileReader implements Runnable {
 		
 		try {
 			// create the file object
-			File file = new File("C:\\Users\\kkjjl\\Desktop\\job.txt");
+			File file = new File("");
 			
 			// create a reader for the file using scanner class
 			Scanner reader = new Scanner(file);
